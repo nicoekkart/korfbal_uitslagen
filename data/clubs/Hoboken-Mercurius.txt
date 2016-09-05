@@ -1,0 +1,89 @@
+nummer,datum,thuisploeg,bezoekers,aantal_thuis,aantal_bezoekers,scheidsrechter,jury,locatie
+V030263,2016-09-04 09:45:00,Hoboken/Mercurius 5,KWIK 4,12 ,11,, ,Hoboken 2000
+V030230,2016-09-04 10:00:00,GANDA 4,Hoboken/Mercurius 4,6 ,8,, ,Ganda
+V030150,2016-09-04 12:40:00,GANDA 2,Hoboken/Mercurius 2,16 ,5,, ,Ganda
+V030100,2016-09-04 14:00:00,GANDA RES,Hoboken/Mercurius res,14 ,8,, ,Ganda
+V030090,2016-09-04 15:30:00,BORNEM,Hoboken/Mercurius 3,12 ,7,, ,Bornem
+V030060,2016-09-04 15:30:00,GANDA,Hoboken/Mercurius,11 ,12,, ,Ganda
+V040233,2016-09-11 00:00:00,Hoboken/Mercurius 4,VRIJ,,,, ,
+V040263,2016-09-11 10:45:00,RIVIERA 4,Hoboken/Mercurius 5,,,, ,Riviera
+V040093,2016-09-11 12:40:00,Hoboken/Mercurius 3,KAPELLEN 2,,,Robert Hansens, ,Hoboken 2000
+V040153,2016-09-11 12:40:00,Hoboken/Mercurius 2,APPELS 2,,,, ,Hoboken 2000
+V040103,2016-09-11 14:00:00,Hoboken/Mercurius res,APPELS RES,,,, ,Hoboken 2000
+V040063,2016-09-11 15:30:00,Hoboken/Mercurius,APPELS,,,Dave Mertens, ,Hoboken 2000
+V050150,2016-09-18 00:00:00,VRIJ,Hoboken/Mercurius 2,,,, ,
+V050263,2016-09-18 09:45:00,Hoboken/Mercurius 5,SPARTA RANST 2,,,, ,Hoboken 2000
+V050230,2016-09-18 10:15:00,ASKC 4,Hoboken/Mercurius 4,,,, ,ASKC
+V050100,2016-09-18 14:00:00,KCBJ RES,Hoboken/Mercurius res,,,, ,KCBJ
+V050090,2016-09-18 15:30:00,VOSKO,Hoboken/Mercurius 3,,,Jacques Ceurvelts, ,Vosko
+V050060,2016-09-18 15:30:00,KCBJ,Hoboken/Mercurius,,,Tina Van Grimberge, ,KCBJ
+V060263,2016-09-25 00:00:00,Hoboken/Mercurius 5,VRIJ,,,, ,
+V060231,2016-09-25 10:45:00,Hoboken/Mercurius 4,BORGERHOUT/GW 5,,,, ,Hoboken 2000
+V060091,2016-09-25 12:40:00,Hoboken/Mercurius 3,HOEVENEN 2,,,Dirk D'hollander, ,Hoboken 2000
+V060151,2016-09-25 12:40:00,Hoboken/Mercurius 2,CATBA 2,,,, ,Hoboken 2000
+V060101,2016-09-25 14:00:00,Hoboken/Mercurius res,CATBA RES,,,, ,Hoboken 2000
+V060061,2016-09-25 15:30:00,Hoboken/Mercurius,CATBA,,,Vincent Van der Beken, ,Hoboken 2000
+V070264,2016-10-02 09:45:00,SIKOPI 4,Hoboken/Mercurius 5,,,, ,Sikopi
+V070230,2016-10-02 10:45:00,SIKOPI 3,Hoboken/Mercurius 4,,,, ,Sikopi
+V070150,2016-10-02 12:40:00,VERDE 2,Hoboken/Mercurius 2,,,, ,Verde
+V070090,2016-10-02 12:40:00,NEERLANDIA 2,Hoboken/Mercurius 3,,,Armand Scheerens, ,Neerlandia
+V070060,2016-10-02 14:15:00,VERDE,Hoboken/Mercurius,,,Stef Cleyman, ,Verde
+V070100,2016-10-02 15:45:00,VERDE RES,Hoboken/Mercurius res,,,, ,Verde
+V080263,2016-10-09 09:45:00,Hoboken/Mercurius 5,BOECKENBERG 5,,,, ,Hoboken 2000
+V080233,2016-10-09 10:45:00,Hoboken/Mercurius 4,CATBA 4,,,, ,Hoboken 2000
+V080093,2016-10-09 12:40:00,Hoboken/Mercurius 3,THE BLUE GHOSTS,,,, ,Hoboken 2000
+V080153,2016-10-09 12:40:00,Hoboken/Mercurius 2,SPARTACUS 2,,,, ,Hoboken 2000
+V080103,2016-10-09 14:00:00,Hoboken/Mercurius res,SPARTACUS RES,,,, ,Hoboken 2000
+V080063,2016-10-09 15:30:00,Hoboken/Mercurius,SPARTACUS,,,, ,Hoboken 2000
+V090152,2016-10-15 17:30:00,RIJKO 2,Hoboken/Mercurius 2,,,, ,Rijko
+V090102,2016-10-15 19:00:00,RIJKO RES,Hoboken/Mercurius res,,,, ,Rijko
+V090062,2016-10-15 20:30:00,RIJKO,Hoboken/Mercurius,,,, ,Rijko
+V090262,2016-10-16 10:45:00,SPARTACUS 4,Hoboken/Mercurius 5,,,, ,Spartacus
+V090232,2016-10-16 12:00:00,HOVE 2,Hoboken/Mercurius 4,,,, ,Hove
+V090092,2016-10-16 12:00:00,BOUTERSEM,Hoboken/Mercurius 3,,,, ,Boutersem
+V100230,2016-10-23 10:45:00,Hoboken/Mercurius 4,GANDA 4,,,, ,Hoboken 2000
+V100263,2016-10-23 12:40:00,KCOV 2,Hoboken/Mercurius 5,,,, ,KCOV
+V100150,2016-10-23 12:40:00,Hoboken/Mercurius 2,GANDA 2,,,, ,Hoboken 2000
+V100090,2016-10-23 12:40:00,Hoboken/Mercurius 3,BORNEM,,,, ,Hoboken 2000
+V100100,2016-10-23 14:00:00,Hoboken/Mercurius res,GANDA RES,,,, ,Hoboken 2000
+V100060,2016-10-23 15:30:00,Hoboken/Mercurius,GANDA,,,, ,Hoboken 2000
+V110263,2016-10-30 09:45:00,Hoboken/Mercurius 5,BEVEREN_WAAS,,,, ,Hoboken 2000
+V120263,2016-11-06 10:00:00,KWIK 4,Hoboken/Mercurius 5,,,, ,Kwik
+V140263,2017-03-19 09:45:00,Hoboken/Mercurius 5,RIVIERA 4,,,, ,Hoboken 2000
+V150263,2017-03-26 09:30:00,SPARTA RANST 2,Hoboken/Mercurius 5,,,, ,Sparta Ranst
+V160233,2017-04-02 00:00:00,VRIJ,Hoboken/Mercurius 4,,,, ,
+V160263,2017-04-02 00:00:00,VRIJ,Hoboken/Mercurius 5,,,, ,
+V160153,2017-04-02 12:40:00,APPELS 2,Hoboken/Mercurius 2,,,, ,Appels
+V160093,2017-04-02 12:40:00,KAPELLEN 2,Hoboken/Mercurius 3,,,, ,Kapellen
+V160103,2017-04-02 14:00:00,APPELS RES,Hoboken/Mercurius res,,,, ,Appels
+V160063,2017-04-02 15:30:00,APPELS,Hoboken/Mercurius,,,, ,Appels
+V170150,2017-04-09 00:00:00,Hoboken/Mercurius 2,VRIJ,,,, ,
+V170264,2017-04-09 09:45:00,Hoboken/Mercurius 5,SIKOPI 4,,,, ,Hoboken 2000
+V170230,2017-04-09 10:45:00,Hoboken/Mercurius 4,ASKC 4,,,, ,Hoboken 2000
+V170090,2017-04-09 12:40:00,Hoboken/Mercurius 3,VOSKO,,,, ,Hoboken 2000
+V170100,2017-04-09 14:00:00,Hoboken/Mercurius res,KCBJ RES,,,, ,Hoboken 2000
+V170060,2017-04-09 15:30:00,Hoboken/Mercurius,KCBJ,,,, ,Hoboken 2000
+V180231,2017-04-23 10:45:00,BORGERHOUT/GW 5,Hoboken/Mercurius 4,,,, ,Borgerhout/GW
+V180263,2017-04-23 11:20:00,BOECKENBERG 5,Hoboken/Mercurius 5,,,, ,Boeckenberg - Sportcenter
+V180151,2017-04-23 12:40:00,CATBA 2,Hoboken/Mercurius 2,,,, ,Catba
+V180091,2017-04-23 12:40:00,HOEVENEN 2,Hoboken/Mercurius 3,,,, ,Hoevenen
+V180101,2017-04-23 14:00:00,CATBA RES,Hoboken/Mercurius res,,,, ,Catba
+V180061,2017-04-23 15:30:00,CATBA,Hoboken/Mercurius,,,, ,Catba
+V190262,2017-04-30 09:45:00,Hoboken/Mercurius 5,SPARTACUS 4,,,, ,Hoboken 2000
+V190230,2017-04-30 10:45:00,Hoboken/Mercurius 4,SIKOPI 3,,,, ,Hoboken 2000
+V190090,2017-04-30 12:00:00,Hoboken/Mercurius 3,NEERLANDIA 2,,,, ,Hoboken 2000
+V190150,2017-04-30 12:40:00,Hoboken/Mercurius 2,VERDE 2,,,, ,Hoboken 2000
+V190100,2017-04-30 14:00:00,Hoboken/Mercurius res,VERDE RES,,,, ,Hoboken 2000
+V190060,2017-04-30 15:30:00,Hoboken/Mercurius,VERDE,,,, ,Hoboken 2000
+V200093,2017-05-06 15:30:00,THE BLUE GHOSTS,Hoboken/Mercurius 3,,,, ,The Blue Ghosts
+V200263,2017-05-07 09:45:00,Hoboken/Mercurius 5,KCOV 2,,,, ,Hoboken 2000
+V200233,2017-05-07 11:00:00,CATBA 4,Hoboken/Mercurius 4,,,, ,Catba
+V200153,2017-05-07 12:40:00,SPARTACUS 2,Hoboken/Mercurius 2,,,, ,Spartacus
+V200063,2017-05-07 14:30:00,SPARTACUS,Hoboken/Mercurius,,,, ,Spartacus
+V200103,2017-05-07 16:00:00,SPARTACUS RES,Hoboken/Mercurius res,,,, ,Spartacus
+V210232,2017-05-14 10:45:00,Hoboken/Mercurius 4,HOVE 2,,,, ,Hoboken 2000
+V210263,2017-05-14 11:00:00,BEVEREN_WAAS,Hoboken/Mercurius 5,,,, ,Beveren - Gemeentelijke Sportcentrum
+V210152,2017-05-14 12:40:00,Hoboken/Mercurius 2,RIJKO 2,,,, ,Hoboken 2000
+V210092,2017-05-14 12:40:00,Hoboken/Mercurius 3,BOUTERSEM,,,, ,Hoboken 2000
+V210102,2017-05-14 14:00:00,Hoboken/Mercurius res,RIJKO RES,,,, ,Hoboken 2000
+V210062,2017-05-14 15:30:00,Hoboken/Mercurius,RIJKO,,,, ,Hoboken 2000

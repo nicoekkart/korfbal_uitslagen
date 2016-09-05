@@ -1,0 +1,1 @@
+nummer,datum,thuisploeg,bezoekers,aantal_thuis,aantal_bezoekers,scheidsrechter,jury,locatie

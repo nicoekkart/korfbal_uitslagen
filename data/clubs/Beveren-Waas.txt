@@ -1,0 +1,19 @@
+nummer,datum,thuisploeg,bezoekers,aantal_thuis,aantal_bezoekers,scheidsrechter,jury,locatie
+V030261,2016-09-04 11:00:00,BEVEREN_WAAS,RIVIERA 4,4 ,11,, ,Beveren - Gemeentelijke Sportcentrum
+V040262,2016-09-11 09:30:00,SPARTA RANST 2,BEVEREN_WAAS,,,, ,Sparta Ranst
+V050262,2016-09-18 10:45:00,SPARTACUS 4,BEVEREN_WAAS,,,, ,Spartacus
+V060261,2016-09-25 11:00:00,BEVEREN_WAAS,SIKOPI 4,,,, ,Beveren - Gemeentelijke Sportcentrum
+V070260,2016-10-02 11:20:00,BOECKENBERG 5,BEVEREN_WAAS,,,, ,Boeckenberg - Sportcenter
+V080261,2016-10-09 11:00:00,BEVEREN_WAAS,KCOV 2,,,, ,Beveren - Gemeentelijke Sportcentrum
+V090261,2016-10-16 00:00:00,VRIJ,BEVEREN_WAAS,,,, ,
+V100261,2016-10-23 11:00:00,BEVEREN_WAAS,KWIK 4,,,, ,Beveren - Gemeentelijke Sportcentrum
+V110263,2016-10-30 09:45:00,Hoboken/Mercurius 5,BEVEREN_WAAS,,,, ,Hoboken 2000
+V120261,2016-11-06 10:45:00,RIVIERA 4,BEVEREN_WAAS,,,, ,Riviera
+V140262,2017-03-19 11:00:00,BEVEREN_WAAS,SPARTA RANST 2,,,, ,Beveren - Gemeentelijke Sportcentrum
+V150262,2017-03-26 11:00:00,BEVEREN_WAAS,SPARTACUS 4,,,, ,Beveren - Gemeentelijke Sportcentrum
+V160261,2017-04-02 09:45:00,SIKOPI 4,BEVEREN_WAAS,,,, ,Sikopi
+V170260,2017-04-09 11:00:00,BEVEREN_WAAS,BOECKENBERG 5,,,, ,Beveren - Gemeentelijke Sportcentrum
+V180261,2017-04-23 12:40:00,KCOV 2,BEVEREN_WAAS,,,, ,KCOV
+V190261,2017-04-30 00:00:00,BEVEREN_WAAS,VRIJ,,,, ,
+V200261,2017-05-07 10:00:00,KWIK 4,BEVEREN_WAAS,,,, ,Kwik
+V210263,2017-05-14 11:00:00,BEVEREN_WAAS,Hoboken/Mercurius 5,,,, ,Beveren - Gemeentelijke Sportcentrum
