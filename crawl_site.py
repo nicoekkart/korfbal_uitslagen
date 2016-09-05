@@ -4,7 +4,6 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from datetime import datetime
-from tabulate import tabulate
 
 def get_by(club = '-1', league = '-1', block = '416'):
     data = {
