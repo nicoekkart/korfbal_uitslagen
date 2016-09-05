@@ -10,30 +10,23 @@
 </div>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-    <script type="text/javascript">
-      // generate mobile version for each table
-      $('table').each(function() {
-        var table = $(this); // cache table object
-        var head = table.find('thead th');
-        var rows = table.find('tbody tr').clone(); // appending afterwards does not break original table
-        // create new table
-        var newtable = $(
-          '<table class="generated_for_mobile">' +
-          '  <tbody>' +
-          '  </tbody>' +
-          '</table>'
-        );
-        // cache tbody where we'll be adding data
-        var newtable_tbody = newtable.find('tbody');
-        rows.each(function(i) {
-          var cols = $(this).find('td');
-          var classname = i % 2 ? 'even' : 'odd';
-          cols.each(function(k) {
-            var new_tr = $('<tr class="' + classname + '"></tr>').appendTo(newtable_tbody);
-            new_tr.append(head.clone().get(k));
-            new_tr.append($(this));
-          });
-        });
-        $(this).after(newtable);
-      });
-    </script>
+<script src="{{ url_for('static', filename='tablefilter/tablefilter.js') }}"></script>
+<script>
+var tf = new TableFilter(document.querySelector('.dataframe'), {
+    base_path: "{{ url_for('static', filename='tablefilter/') }}",
+    responsive: true,
+    filters_row_index: 1,
+    enter_key: true,
+    col_0: 'none',
+    col_1: 'select',
+    col_2: 'select',
+    col_3: 'multiple',
+    col_4: 'multiple',
+    col_5: 'none',
+    col_6: 'none',
+    col_7: 'select',
+    col_8: 'select',
+    col_9: 'select'
+});
+tf.init();
+</script>

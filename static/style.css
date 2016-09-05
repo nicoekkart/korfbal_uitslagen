@@ -19,11 +19,6 @@ table.dataframe, .dataframe th, .dataframe td {
     color: white;
 }
 
-.female th {
-    background-color: #77dd77;
-    color: white;
-}
-
 tr:nth-child(odd)		{ background-color:#eee; }
 tr:nth-child(even)	{ background-color:#fff; }
 
@@ -33,22 +28,5 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
     border: 1px solid #bbb;
-}
-td, th {
-    border-top: 1px solid #ddd;
-    padding: 4px 8px;
-}
-.generated_for_mobile {
-    margin-bottom: 30px;
-    display:none;
-}
-@media max-width: 760px {
-    .dataframe {
-        display:none;
-    }
-    .generated_for_mobile {
-        display:block;
-    }
-
 }
 
